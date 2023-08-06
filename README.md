@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm RaviKumar L</h1>
-<h3 align="center">A passionate Technology Enthusiast from Karnataka India</h3>
+<h3 align="center">A Technology Enthusiast </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=positivepunk&label=Profile%20views&color=0e75b6&style=flat" alt="positivepunk" /> </p>
 
